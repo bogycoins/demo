@@ -103,28 +103,7 @@
 	}],
 	"collections": [{
 		"id": 1,
-		"cards": [{
-				"amount": 23,
-				"id": 1,
-				"need": 4,
-				"tradelist": 45,
-				"wishlist": 0
-			},
-			{
-				"amount": 23,
-				"id": 2,
-				"need": 4,
-				"tradelist": 45,
-				"wishlist": 0
-			},
-			{
-				"amount": 23,
-				"id": 3,
-				"need": 4,
-				"tradelist": 45,
-				"wishlist": 0
-			}
-		],
+		"cards": ["1", "2", "4"],
 		"user": "bogy"
 	}]
 }
