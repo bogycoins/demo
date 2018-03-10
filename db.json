@@ -102,8 +102,19 @@
 		"id": 5
 	}],
 	"collections": [{
-		"id": 1,
+		"id": "1",
 		"cards": ["1", "2", "4"],
 		"user": "bogy"
-	}]
+	},{
+		"id": "2",
+		"cards": ["1", "2", "3"],
+		"user": "gigi"
+	}],
+	"collection_cards":[{
+		"id": 1,
+		"card": "1",
+		"collection": "1",
+		"wishlist": 3
+	}
+	]
 }
