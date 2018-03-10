@@ -116,5 +116,48 @@
 		"collection": "1",
 		"wishlist": 3
 	}
-	]
+	],
+	"user":
+	{
+    "data": {
+        "id": "8675309",
+        "type": "user",
+        "attributes": {
+            "name": "Anfanie Farmeo"
+        },
+        "relationships": {
+            "payment-methods": {
+                "data": [{
+                    "id": "1",
+                    "type": "payment-method-paypal"
+                }, {
+                    "id": "2",
+                    "type": "payment-method-cc"
+                }, {
+                    "id": "3",
+                    "type": "payment-method-apple-pay"
+                }]
+            }
+        }
+    },
+    "included": [{
+        "id": "1",
+        "type": "payment-method-paypal",
+        "attributes": {
+            "linked-email": "ryan@gosling.io"
+        }
+    }, {
+        "id": "2",
+        "type": "payment-method-cc",
+        "attributes": {
+            "last4": "1335"
+        }
+    }, {
+        "id": "3",
+        "type": "payment-method-apple-pay",
+        "attributes": {
+            "last4": "5513"
+        }
+    }]
+}
 }
