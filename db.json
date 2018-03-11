@@ -1,5 +1,6 @@
 {
-	"cards": [{
+	"cards": [
+		"cards":[{
 		"cardid": 1,
 		"name": "Blood Shard",
 		"col": "B",
@@ -19,7 +20,7 @@
 		"unlimited": "1",
 		"notcollectable": 1,
 		"id": 1
-	}],
+	}]],
 
 	"cards2": [{
 			"cardid": 1,
