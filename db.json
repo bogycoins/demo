@@ -1,162 +1,159 @@
 {
-  "cards" : [{
-    "cardid": 1,
-    "name": "Blood Shard",
-    "col": "B",
-    "type": "Resource",
-    "no": 0,
-    "set": "hex",
-    "rarity": "g",
-    "pve": false,
-    "ingame": 1,
-    "version": 0,
-    "guid": "b253393b-fdde-47c4-9288-4b8efb0698b1",
-    "setno": 0,
-    "img_flag": 1,
-    "cost": "0",
-    "traits": "Standard",
-    "text": "Gain <img title='Blood' src='images/icons/shards/b.png'>.<p>Gain a charge.",
-    "unlimited": "1",
-    "notcollectable": 1,
-    "id": 1
-  }],
+	"cards": [{
+		"cardid": 1,
+		"name": "Blood Shard",
+		"col": "B",
+		"type": "Resource",
+		"no": 0,
+		"set": "hex",
+		"rarity": "g",
+		"pve": false,
+		"ingame": 1,
+		"version": 0,
+		"guid": "b253393b-fdde-47c4-9288-4b8efb0698b1",
+		"setno": 0,
+		"img_flag": 1,
+		"cost": "0",
+		"traits": "Standard",
+		"text": "Gain <img title='Blood' src='images/icons/shards/b.png'>.<p>Gain a charge.",
+		"unlimited": "1",
+		"notcollectable": 1,
+		"id": 1
+	}],
 
-  "cards2": [
-    {
-      "cardid": 1,
-      "name": "Blood Shard",
-      "col": "B",
-      "type": "Resource",
-      "no": 0,
-      "set": "hex",
-      "rarity": "g",
-      "pve": false,
-      "ingame": 1,
-      "version": 0,
-      "guid": "b253393b-fdde-47c4-9288-4b8efb0698b1",
-      "setno": 0,
-      "img_flag": 1,
-      "cost": "0",
-      "traits": "Standard",
-      "text": "Gain <img title='Blood' src='images/icons/shards/b.png'>.<p>Gain a charge.",
-      "unlimited": "1",
-      "notcollectable": 1,
-      "id": 1
-    },
-    {
-      "cardid": 2,
-      "name": "Diamond Shard",
-      "col": "D",
-      "type": "Resource",
-      "no": 0,
-      "set": "hex",
-      "rarity": "g",
-      "pve": false,
-      "ingame": 1,
-      "version": 0,
-      "guid": "6865d8d5-bd2e-43c6-8a68-53d1bde6bc28",
-      "setno": 0,
-      "img_flag": 1,
-      "cost": "0",
-      "traits": "Standard",
-      "text": "Gain <img title='Diamond' src='images/icons/shards/d.png'>.<p>Gain a charge.",
-      "unlimited": "1",
-      "notcollectable": 1,
-      "id": 2
-    },
-    {
-      "cardid": 3,
-      "name": "Ruby Shard",
-      "col": "R",
-      "type": "Resource",
-      "no": 0,
-      "set": "hex",
-      "rarity": "g",
-      "pve": false,
-      "ingame": 1,
-      "version": 0,
-      "guid": "1f897193-72a1-487e-a6bd-f3f6e7897c47",
-      "setno": 0,
-      "img_flag": 1,
-      "cost": "0",
-      "traits": "Standard",
-      "text": "Gain <img title='Ruby' src='images/icons/shards/r.png'>.<p>Gain a charge.",
-      "unlimited": "1",
-      "notcollectable": 1,
-      "id": 3
-    },
-    {
-      "cardid": 4,
-      "name": "Sapphire Shard",
-      "col": "S",
-      "type": "Resource",
-      "no": 0,
-      "set": "hex",
-      "rarity": "g",
-      "pve": false,
-      "ingame": 1,
-      "version": 0,
-      "guid": "8554b2c8-cf48-467d-bf55-ab45e306ce43",
-      "setno": 0,
-      "img_flag": 1,
-      "cost": "0",
-      "traits": "Standard",
-      "text": "Gain <img title='Sapphire' src='images/icons/shards/s.png'>.<p>Gain a charge.",
-      "unlimited": "1",
-      "notcollectable": 1,
-      "id": 4
-    },
-    {
-      "cardid": 5,
-      "name": "Wild Shard",
-      "col": "W",
-      "type": "Resource",
-      "no": 0,
-      "set": "hex",
-      "rarity": "g",
-      "pve": false,
-      "ingame": 1,
-      "version": 0,
-      "guid": "cd41bd00-7585-4762-a721-6163bdaee3c3",
-      "setno": 0,
-      "img_flag": 1,
-      "cost": "0",
-      "traits": "Standard",
-      "text": "Gain <img title='Wild' src='images/icons/shards/w.png'>.<p>Gain a charge.",
-      "unlimited": "1",
-      "notcollectable": 1,
-      "linkedcards": [
-        "134",
-        "1055",
-        "1003"
-      ],
-      "id": 5
-    }
-  ],
-  "collectionCards": [
-    {
-      "id": "1",
-      "card": "1",
-      "wishlist": 123,
-      "user": "1"
-    },
-    {
-      "id": "2",
-      "card": "2",
-      "wishlist": 554,
-      "user": "1"
-    }
-  ],
-  "users": [
-    {
-      "id": "1",
-      "name": "bogy"
-    },
-     "user": {
-      "id": "2",
-       
-         "name" : "bogy"
-     
-    }
-  ]
+	"cards2": [{
+			"cardid": 1,
+			"name": "Blood Shard",
+			"col": "B",
+			"type": "Resource",
+			"no": 0,
+			"set": "hex",
+			"rarity": "g",
+			"pve": false,
+			"ingame": 1,
+			"version": 0,
+			"guid": "b253393b-fdde-47c4-9288-4b8efb0698b1",
+			"setno": 0,
+			"img_flag": 1,
+			"cost": "0",
+			"traits": "Standard",
+			"text": "Gain <img title='Blood' src='images/icons/shards/b.png'>.<p>Gain a charge.",
+			"unlimited": "1",
+			"notcollectable": 1,
+			"id": 1
+		},
+		{
+			"cardid": 2,
+			"name": "Diamond Shard",
+			"col": "D",
+			"type": "Resource",
+			"no": 0,
+			"set": "hex",
+			"rarity": "g",
+			"pve": false,
+			"ingame": 1,
+			"version": 0,
+			"guid": "6865d8d5-bd2e-43c6-8a68-53d1bde6bc28",
+			"setno": 0,
+			"img_flag": 1,
+			"cost": "0",
+			"traits": "Standard",
+			"text": "Gain <img title='Diamond' src='images/icons/shards/d.png'>.<p>Gain a charge.",
+			"unlimited": "1",
+			"notcollectable": 1,
+			"id": 2
+		},
+		{
+			"cardid": 3,
+			"name": "Ruby Shard",
+			"col": "R",
+			"type": "Resource",
+			"no": 0,
+			"set": "hex",
+			"rarity": "g",
+			"pve": false,
+			"ingame": 1,
+			"version": 0,
+			"guid": "1f897193-72a1-487e-a6bd-f3f6e7897c47",
+			"setno": 0,
+			"img_flag": 1,
+			"cost": "0",
+			"traits": "Standard",
+			"text": "Gain <img title='Ruby' src='images/icons/shards/r.png'>.<p>Gain a charge.",
+			"unlimited": "1",
+			"notcollectable": 1,
+			"id": 3
+		},
+		{
+			"cardid": 4,
+			"name": "Sapphire Shard",
+			"col": "S",
+			"type": "Resource",
+			"no": 0,
+			"set": "hex",
+			"rarity": "g",
+			"pve": false,
+			"ingame": 1,
+			"version": 0,
+			"guid": "8554b2c8-cf48-467d-bf55-ab45e306ce43",
+			"setno": 0,
+			"img_flag": 1,
+			"cost": "0",
+			"traits": "Standard",
+			"text": "Gain <img title='Sapphire' src='images/icons/shards/s.png'>.<p>Gain a charge.",
+			"unlimited": "1",
+			"notcollectable": 1,
+			"id": 4
+		},
+		{
+			"cardid": 5,
+			"name": "Wild Shard",
+			"col": "W",
+			"type": "Resource",
+			"no": 0,
+			"set": "hex",
+			"rarity": "g",
+			"pve": false,
+			"ingame": 1,
+			"version": 0,
+			"guid": "cd41bd00-7585-4762-a721-6163bdaee3c3",
+			"setno": 0,
+			"img_flag": 1,
+			"cost": "0",
+			"traits": "Standard",
+			"text": "Gain <img title='Wild' src='images/icons/shards/w.png'>.<p>Gain a charge.",
+			"unlimited": "1",
+			"notcollectable": 1,
+			"linkedcards": [
+				"134",
+				"1055",
+				"1003"
+			],
+			"id": 5
+		}
+	],
+	"collectionCards": [{
+			"id": "1",
+			"card": "1",
+			"wishlist": 123,
+			"user": "1"
+		},
+		{
+			"id": "2",
+			"card": "2",
+			"wishlist": 554,
+			"user": "1"
+		}
+	],
+	"users": [{
+			"id": "1",
+			"name": "bogy"
+		},
+		{
+			"user": {
+				"id": "2",
+				"name": "bogy"
+			}
+		}
+	]
 }
