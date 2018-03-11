@@ -151,6 +151,12 @@
     {
       "id": "1",
       "name": "bogy"
+    },
+     {
+      "id": "2",
+       attributes:{
+         "name" : "bogy"
+       }
     }
   ]
 }
