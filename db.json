@@ -1,26 +1,50 @@
 {
-	"cards": [
-		"cards":[{
-		"cardid": 1,
-		"name": "Blood Shard",
-		"col": "B",
-		"type": "Resource",
-		"no": 0,
-		"set": "hex",
-		"rarity": "g",
-		"pve": false,
-		"ingame": 1,
-		"version": 0,
-		"guid": "b253393b-fdde-47c4-9288-4b8efb0698b1",
-		"setno": 0,
-		"img_flag": 1,
-		"cost": "0",
-		"traits": "Standard",
-		"text": "Gain <img title='Blood' src='images/icons/shards/b.png'>.<p>Gain a charge.",
-		"unlimited": "1",
-		"notcollectable": 1,
-		"id": 1
-	}]],
+	"cards": [{
+			"cardid": 1,
+			"name": "Blood Shard",
+			"col": "B",
+			"type": "Resource",
+			"no": 0,
+			"set": "hex",
+			"rarity": "g",
+			"pve": false,
+			"ingame": 1,
+			"version": 0,
+			"guid": "b253393b-fdde-47c4-9288-4b8efb0698b1",
+			"setno": 0,
+			"img_flag": 1,
+			"cost": "0",
+			"traits": "Standard",
+			"text": "Gain <img title='Blood' src='images/icons/shards/b.png'>.<p>Gain a charge.",
+			"unlimited": "1",
+			"notcollectable": 1,
+			"id": 1
+		},
+		{
+			"id": 2,
+			"cards": [{
+				"cardid": 1,
+				"name": "Blood Shard",
+				"col": "B",
+				"type": "Resource",
+				"no": 0,
+				"set": "hex",
+				"rarity": "g",
+				"pve": false,
+				"ingame": 1,
+				"version": 0,
+				"guid": "b253393b-fdde-47c4-9288-4b8efb0698b1",
+				"setno": 0,
+				"img_flag": 1,
+				"cost": "0",
+				"traits": "Standard",
+				"text": "Gain <img title='Blood' src='images/icons/shards/b.png'>.<p>Gain a charge.",
+				"unlimited": "1",
+				"notcollectable": 1,
+				"id": 1
+			}]
+		}
+	],
 
 	"cards2": [{
 			"cardid": 1,
