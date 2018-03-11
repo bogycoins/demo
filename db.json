@@ -152,11 +152,11 @@
       "id": "1",
       "name": "bogy"
     },
-     {
+     "user": {
       "id": "2",
-       "attributes":{
+       
          "name" : "bogy"
-       }
+     
     }
   ]
 }
