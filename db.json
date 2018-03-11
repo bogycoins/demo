@@ -154,7 +154,7 @@
     },
      {
       "id": "2",
-       attributes:{
+       "attributes":{
          "name" : "bogy"
        }
     }
